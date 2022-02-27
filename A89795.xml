@@ -1,0 +1,149 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A narration of the expedition to Taunton; the raising the siege before it, and the condition of our forces, and the enemies, at this present in the west. / Sent from a commander in the army, and dated at Chard, May 18. 1645. Published by authoritie.</title>
+            <author>Commander in the army.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1645</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 17 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A89795</idno>
+            <idno type="STC">Wing N158</idno>
+            <idno type="STC">Thomason E285_10</idno>
+            <idno type="STC">ESTC R200069</idno>
+            <idno type="EEBO-CITATION">99860873</idno>
+            <idno type="PROQUEST">99860873</idno>
+            <idno type="VID">113000</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A89795)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 113000)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 47:E285[10])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A narration of the expedition to Taunton; the raising the siege before it, and the condition of our forces, and the enemies, at this present in the west. / Sent from a commander in the army, and dated at Chard, May 18. 1645. Published by authoritie.</title>
+                  <author>Commander in the army.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Samuel Gellibrand,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>May 23. 1645.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Taunton (England) --  History --  Siege,1645 --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-07</date>
+            <label>Sarah Wingo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-07</date>
+            <label>Sarah Wingo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:113000:1" rendition="simple:additions"/>
+            <p>A NARRATION OF THE EXPEDITION TO TAUNTON; The Raiſing the Siege before it, and the Condition of our Forces, and the Enemies, at this preſent in the WEST.</p>
+            <p>Sent from a Commander in the Army, and dated at <hi>Chard, May</hi> 18. 1645.</p>
+            <p>
+               <hi>Publiſhed by Authoritie.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Samuel Gellibrand, May</hi> 23. 1645.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:113000:2"/>
+            <pb n="3" facs="tcp:113000:2"/>
+            <head>A brief Narration of the relief of <hi>TA<g ref="char:V">Ʋ</g>NTON.</hi>
+            </head>
+            <p>GOOD Friend, would I could perform my promiſe, with as much profit to you, as delight to my ſelf: But in brief, Since my Apologie would but ſtigmatize as much your candid conſtruction, as be a further declaration of my own weak<g ref="char:EOLhyphen"/>neſſe, you ſhall underſtand by theſe few lines our progreſſe from <hi>Stanes,</hi> our firſt advance on the laſt of <hi>April,</hi> by ſeverall ſtages, untill we came to our generall Randevouz at <hi>Newbery-Waſh, May</hi> the 4. From whence, by twelve or one of the clock, we advanced toward <hi>Andover,</hi> and in the Villages adjacent, with ſeven Regiments of Foot, to the number, I ſuppoſe, of 10 or 12000. Foot; for the Horſe moſt of them not then as yet come in: I would write no more then what I am able to teſtifie, either by my own, or from the hands of good Authors.</p>
+            <p>From <hi>Andover</hi> on <hi>May</hi> the fifth, we drew up our ſeverall Regi<g ref="char:EOLhyphen"/>ments a mile from the Town and ſtaid two or three hours, called a Councell of War, where were caſt five or ſix, one a Renegado, and four more, authours of the mutiny in <hi>Kent,</hi> who caſt dice for their lives; one of them, and the Renegado a Parſons ſon, were executed in a Village on a Tree in the High-way, in <hi>Terrorem;</hi> the Parſons ſon, as was ſaid, in the ſame Town where he was born, both of them died as they lived, like Sotts: But how the great Judge paſt his ſen<g ref="char:EOLhyphen"/>tence on them, I have not to ſay. Next day, <hi>May</hi> the ſixth, was Pro<g ref="char:EOLhyphen"/>clamation made, <hi>That it ſhould be death for any man to plunder,</hi> at which, our old Horſe-Dragoons, ſomewhat guilty, made anſwer, <hi>If the Parliament would pay truely, let them hang duely:</hi> Which hath cauſed ſo much good order in our march, that to my beſt inquiry, I have not heard of any man to complain to looſe an Ox, Sheep, Lamb, Hen, no, nor an Egg, ſave in our hard march, hot-dayes, vacancy of Towns, or Houſes, over the Plain, made them inordinately deſire drink, or covet for water in the Villages we paſt. To give you the particular of our ſeverall Stages, would be as difficult, as needleſſe:
+<pb n="4" facs="tcp:113000:3"/>Since for the moſt part we took Barnes, and Hedges for our nights repoſe, after our hard and hot-dayes marches, untill within the com<g ref="char:EOLhyphen"/>paſſe of eight dayes. We came on the ſecond of this inſtant, within the ſight of <hi>Taunton,</hi> where upon the Hills, when we came within ten miles of it, having the advantage of ground, we gave them a peal of our Artillary, ten of our peeces being diſcharged to give them notice of our approach, which yet did them no good, by reaſon, that on the Thurſday before, which was the eighth of this inſtant Moneth, the enemy drew out a party of their Horſe and Foot, with ſome peeces of Cannon, and skirmiſht in ſight of the Town, but one<g ref="char:EOLhyphen"/>ly with Powder; in fine, they made the Town beleeve, that <hi>Fairfax</hi> who was coming to relieve them, was there beaten, hoping by this ſtratagem, to have drawn a party of them out, to their ſuccour, and to have cut them off by an Ambuſcado: But God withheld them, they kept cloſe to their works, and when the enemy returned, they fell to firing of the Town, and told them, you Roundheaded Rogues, you look for relief, but we have relieved them, and <hi>Goring</hi> is coming on, and we will not leave one Houſe ſtanding, if you will not yeeld; then they played with their Granadoes and Morter peeces ſo hot, and ſo long, that they fired the Town: So that, I beleeve, the one half of the Town, which was two long ſtreets of the Subburbs, be both burnt down to the ground; and the mean while, they ſtormed moſt furiouſly, but they met with a Gallant Commander in chief, Colonell <hi>Blake,</hi> and his ſtout Souldiers, that gave them ſuch ſhowres of lead, that from good hands it is reported, 1200. at leaſt, there ſacrificed their filthy lives, and left their carkaſſes: The Town in all, from the begin<g ref="char:EOLhyphen"/>ning, to the raiſing of the ſiedge, hath loſt 200. men. On Friday they had work enough to bury their dead, and bethink themſelves of ſaving their living. <hi>Hopton</hi> ſent a parly to reſign the Town upon conditions, <hi>Blake</hi> returned him anſwer, he had four pair of Boots yet left, and he would eat three pair of them, before he ſhould have it.</p>
+            <p>On Saturday we came to <hi>Chard,</hi> within eight miles of it; on the Lords-day, orders were given to beat our Drums by day light, and accordingly, drew up our whole Army, Horſe and Foot; and allthough by command from the Parliament, our noble General <hi>Fairfax,</hi> Generall Major <hi>Skippon,</hi> and that Regiment which formerly was <hi>Barkeleys,</hi> were commanded back when we were at <hi>Blandford,</hi> which was a ſad breakfaſt to moſt, both Officers and Souldiers, were after ſad ſalutes, and watery eyes, like the parting of Husbands from their Wives, and dear friends, yet we were a thinking of nothing
+<pb n="5" facs="tcp:113000:3"/>more then reſolution to obey, and action to perform, that great work for the which we were ſent, with four Regiments of Foot, to wit. Colonell <hi>Welden,</hi> who as eldeſt Colonell, a gallant, wiſe, and brave Gentleman, Commander in cheif, Colonell <hi>Forteſcu,</hi> Colonell <hi>Floyd,</hi> and Colonell <hi>Englesby</hi> Regiments; and as we paſt, came in for our recrute, and met us about <hi>Dorcheſter,</hi> ſix Companies of the Skie-colour Regiment of Colonell <hi>Morrels;</hi> and on Saturday, as many Colours from <hi>Lime,</hi> thoſe old, brave Blades, We had a fine Body of Horſe, of ſome 1500. or 2000. and 4. or 5000 Foot, where I never beheld men of all ſorts, of more promiſing courage, reſolution, all as one man, ſweetly combined againſt the common enemies of mankinde, ſuch love amongſt themſelves, Horſe, and Foot. One paſſage I will relate, though I hate prolixitie, a brave gallant Fellow, but a common Souldier, cries out to the Horſe as they marcht by: O brave Horſe, go on, ſhew them no more mercy, then to a Louſe: Remember <hi>Cornwall;</hi> To whom a brave Captain of the <hi>Plimmouth</hi> Troop replied, O Fellow Souldier, let us remember our God, and not fight in malice, but do his work, and leave the ſucceſſe to him, and you ſhall ſee, through Gods mercy, we will ſtand cloſe to you, O you gallant Foot; but I may not be tedious, yet ſurely, braver courage was never ſeen, then even then, when a party of the enemies Horſe, and ours, faced each other; our Forlorn Horſes meet, and ex<g ref="char:EOLhyphen"/>change ſome Piſtols, put them quickly to the Tryall of their heels; but after we were drawn up into Battalia, expecting when to be charged, and made choice of our ground, no enemy appeared, we went on to the very Brow of the Hill in Battalia, and ſaw betwixt that and <hi>Taunton,</hi> nothing but incloſures, not minding to adventure all our Horſe into a pitfold; the Lanes in many places from thence, we could not march above four or ſix in breſt: The Agitant of the Horſe ſurely a gallant man, a Dutchman, and ſome eight or nine others, fall down to <hi>Pitmiſter,</hi> and without his Dublet, onely in his Shirt, in<g ref="char:EOLhyphen"/>countered a Troop of the enemies Horſe, being as is ſaid, <hi>Hoptons</hi> Lifeguard, for they were commanded by his own Cornet, one <hi>Brown</hi> an <hi>Iriſh</hi> man, who furiouſly charges them, and cries, why do you not fier you cowardly Rogues, ſpent one Piſtoll, charged them thorow, and killed three or four with his own hands, his Sword being all bloody up to the very Hilt; they all run as faſt as they could, the Dutch Agitant wheels off, and retreats, loſt not one man in the firſt Rout; the Cornet and ſome twelve more, faced about, and on them the Agitant charges a freſh, having killed two or three of them, took
+<pb n="6" facs="tcp:113000:4"/>four of them priſoners, rides up to the Cornet, and cries quarter, he denies it, but ſets Spurs to his Horſe to run away, but he was ſoon overtaken by his Piſtoll, which ended his journey by a brace of Bul<g ref="char:EOLhyphen"/>lets in his back, fell from his Horſe, he brought him of alive, but he ſoon died; and being demanded why he refuſed quarter, made an<g ref="char:EOLhyphen"/>ſwer, He could not in honour deſire it, ſeeing ſo many to be beaten, and run away from ſo few: But queſtionleſſe, the man thought of his Nation, and dreading a halter, choſe a more honourable death. All this while, we have not one word from the Town; whereupon, we gave them two or three peeces of Cannon, but they were cautious, and perſwaded we were the enemy, who indeavoured to draw them forth; for ſo the enemy ſuggeſted, that <hi>Goring</hi> was come to relieve them, and that their Rear might not be diſcovered: toward Evening, we ſent a party of Horſe, who approacht to their very Works, the enemy having drawn off their Guns, and their Rear upon their march, the Town never before, having any notice of our Forces, that they could confide on as friends there, about ſix of the clock fell out upon their Rear, killed ſome, and took other priſoners. We marcht with our whole Body to <hi>Pitmiſter,</hi> and then within two miles of the Town, took up our quarters in the Fields, and on Munday morning our Colonels go to <hi>Taunton,</hi> give order for our whole Army to re<g ref="char:EOLhyphen"/>treat back to <hi>Chard,</hi> where we quartered on Saturday; and the fourteenth is the firſt dayes reſt, the Army hath had, from our firſt dayes motion Weſtward; which if you conſider of, is one of the greateſt expeditions, and gallanteſt marches, that ever this unhappy War produced; if you do but waigh the length of the way, the in<g ref="char:EOLhyphen"/>cumbrances that attend an Army, with their Train, and Artillary; many new Souldiers, hard quarters, exceeding cold nights, and as hot dayes: Let God have the Glory, our Colonells and Officers the praiſe; who of my knowledge, have marcht two or three dayes on Foot, and never took their Horſe, but ſtill in the head of their Regi<g ref="char:EOLhyphen"/>ments, gave good incouragement by their own examples, and then God ſo ordering, that not a man of us miſcarried; for my own Company, I can ſay, not a man ſick after we left <hi>Newbery,</hi> and few or none went from us, but all ſtick cloſe, valiantly reſolved to fight, and die, yet the Town was relieved without the loſſe of any mans blood, and a terrour ſtrook into the hearts of their enemies. We may ſay, God fought for us, and of him, we will make our boaſt all the day long; To whom be all the praiſe, who lives for ever and ever, <hi>Amen, Amen.</hi>
+            </p>
+            <pb n="7" facs="tcp:113000:4"/>
+            <p>Thus far have I brought you to our own Armies expedition; but now for the enemy one word, and I have done, though neither this, nor future ages will beleeve, nor ſhould I my ſelf, who have former<g ref="char:EOLhyphen"/>ly known theſe parts, had not my own eies beheld it: To ſee one or two Houſes ruined in a place, had been no great matter, but all the way we marcht from <hi>Okingham</hi> to <hi>Taunton;</hi> no place eſpecially, where Religion was moſt eminent, but you might track the divell by his cloven Foot: Such devaſtation of Houſes, nay, depopulations in many places; and thoſe Fields, Paſtures, Plains, formerly beautified, and inricht with Flocks, and Herds: You may paſſe ten miles, and ſcarce diſcern any thing; rich Paſtures, but no Cattle left to eat them. You would ſuppoſe the great <hi>Turk,</hi> his Janiſaries and Armies, rather then their Native Prince his Souldiers had been there: Who would think a King, who was ſo tender hearted, as to charge <hi>Hotham</hi> ſo deeply in his Anſwer to the Parliament, declared 1642. for drowning the Medows about <hi>Hull,</hi> and was formerly ſo carefull for the good of the Subjects diſabuſing by the ſeverall Manafactures of Sope, Cards, Dice, Pinnes, <hi>&amp;c.</hi> ſhould now lay all deſolate where he hath any foot<g ref="char:EOLhyphen"/>ing. O that thoſe Counties of <hi>Kent, Eſſex, &amp;c.</hi> which complain of heavy Taxes, would compare their Eſtates with the forlorn Weſt: His Majeſtie complains, that the Flowers of his Crown, the Prero<g ref="char:EOLhyphen"/>gative Royall, ſhould be infringed; and yet the Jewels of the ancient Crown fold to buy us ſuch an unheard off miſery, by <hi>Walloons, Iriſh, French, Dutch, &amp;c.</hi> If all this will not pleaſe the Queen, the Papiſts, Jeſuites, yea, the divell himſelf; I know not how they can ſtudie more to grive man, and provoke God. Let them palliat the Prince, and tell him, he is to give an account to none but God; yet ſure that will be found an hard reckoning at laſt: A ſad maxime, that no way ſo ſure to ſettle the King in his Throne, as to Pave its way thorow the blood, and ruine of his people and Kingdom. We have heard of three or four Kings, in four or five yeers, and yet the Kingdom to flouriſh; but we never heard, that one King ſhould deſtroy two or three King<g ref="char:EOLhyphen"/>doms, rather then ſuffer the leaſt affront, or the leaſt twing of the Toothack; and curſed be thoſe Councels of the Rabbies in <hi>Oxford,</hi> and divels of <hi>Rome,</hi> who ſo perſwade. If this be Regall Govern<g ref="char:EOLhyphen"/>ment, I know not what to call Tyranny; yet King <hi>James,</hi> though none of the beſt Princes, nor worſt Politician, hath written <hi>Baſili<g ref="char:EOLhyphen"/>con Doron,</hi> and ſhrewdly deſcanted on this Theam. How ever <hi>Solo<g ref="char:EOLhyphen"/>mon</hi> could judge of the true mother by her affection, rather to ſave her childes life, though ſhe loſt her childe formerly: Good Princes
+<pb n="8" facs="tcp:113000:5"/>have been the ſheilds and ſaviours, not deſtroyers of their Countreys. If the King ſhould miſcarry (which we abhor to think or deſire) yet we may have many Kings hereafter; But if three Kingdoms periſh, what is Monarchy without Majeſtie; and what Majeſtie can be up<g ref="char:EOLhyphen"/>held with beggery, miſery, and ſlavery. If this be the Proteſtant Re<g ref="char:EOLhyphen"/>ligion, its a ſtrange one: yet ſo it muſt be called, yea, <hi>Hopton</hi> when he ſaw he could not take, yet cruelly burnt that diſtreſſed Town; and when it was all in flames, called, and pulled out by the ears, thoſe diſtreſſed people adjacent, to look and behold the flames, with execra<g ref="char:EOLhyphen"/>tion and ſcorn; yet after he had two preachments, no doubt, but to give God thanks, like the Duke <hi>de Alva,</hi> who before Dinner, gave a good Grace to his meat, thanking God for his buchery of ſo many thouſands in a few yeers: This is <hi>that Hopton,</hi> formerly accounted Re<g ref="char:EOLhyphen"/>ligious, Honeſt, Noble, ſo degenerate by the Councell of <hi>Tobi Mat<g ref="char:EOLunhyphen"/>thews,</hi> and old <hi>Cottington,</hi> and his Uncle, Sir <hi>Arthur Hopton,</hi> Spaniſh compliance, and all grounded upon his own beggerly eſtate, ſo piti<g ref="char:EOLhyphen"/>fully torn, and out at heels, that he is become the monſter of man<g ref="char:EOLhyphen"/>kinde. In brief, the poor people come from all parts, rejoycing, praiſing God, and thanking us for delivering them from thoſe Beaſts of prey, who before this time, had no Trade, Market, Commerce, or ſociety with each others. Now their faces begin to ſhut out the for<g ref="char:EOLhyphen"/>mer wrinkles, and ſmilingly tell us, we have ſhrewdly galled the Cabballers, ſhower and ſhower, they be all ago: The Lord keep them as ſafe, as we have left them; for we have orders to march away Eaſtward this day, having had not one dayes reſt this fourteen dayes, before this time: And now our men are cheerfully marching, and we hope you are praying, that you may never taſte that in <hi>London,</hi> which we have ſeen in the Weſt. O if <hi>Kent</hi> did know their happineſſe, they would not be ſo mad to purchaſe ſuch miſery, at ſo dear a rate; how<g ref="char:EOLhyphen"/>ever, they bleſſe themſelves with hopes of their King, theſe poor ſouls have found they have King enough. Sir, I have no more to ſay, but deſire three or four words, how things go at <hi>Scarborough,</hi> and in the North.</p>
+            <closer>
+               <dateline>
+                  <hi>Chard,</hi> 
+                  <date>18. of <hi>May,</hi> 1645.</date>
+               </dateline>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
